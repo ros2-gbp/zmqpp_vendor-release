@@ -19,7 +19,6 @@ tracks:
     name: upstream
     patches: null
     release_inc: '2'
-    release_repo_url: https://github.com/tier4/zmqpp_vendor-release.git
     release_tag: :{version}
     ros_distro: foxy
     vcs_type: git
@@ -45,7 +44,6 @@ tracks:
     name: upstream
     patches: null
     release_inc: '1'
-    release_repo_url: https://github.com/tier4/zmqpp_vendor-release.git
     release_tag: :{version}
     ros_distro: galactic
     vcs_type: git
@@ -71,7 +69,6 @@ tracks:
     name: upstream
     patches: null
     release_inc: '1'
-    release_repo_url: https://github.com/tier4/zmqpp_vendor-release.git
     release_tag: :{version}
     ros_distro: humble
     vcs_type: git
@@ -97,7 +94,6 @@ tracks:
     name: upstream
     patches: null
     release_inc: '1'
-    release_repo_url: https://github.com/tier4/zmqpp_vendor-release.git
     release_tag: :{version}
     ros_distro: rolling
     vcs_type: git
