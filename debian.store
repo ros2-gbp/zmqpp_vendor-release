@@ -1,1 +1,1 @@
-{"base": "edec9e2", "parent": "debian/rolling/zmqpp_vendor", "previous": "963e10c", "trim": "", "trimbase": ""}
+{"base": "9aa20c4", "parent": "debian/jazzy/zmqpp_vendor", "previous": "4dd60c9", "trim": "", "trimbase": ""}
