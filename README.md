@@ -1,3 +1,26 @@
+## zmqpp_vendor (jazzy) - 0.1.0-1
+
+The packages in the `zmqpp_vendor` repository were released into the `jazzy` distro by running `/usr/bin/bloom-release --rosdistro jazzy zmqpp_vendor` on `Mon, 22 Dec 2025 08:53:47 -0000`
+
+The `zmqpp_vendor` package was released.
+
+Version of package(s) in repository `zmqpp_vendor`:
+
+- upstream repository: https://github.com/tier4/zmqpp_vendor.git
+- release repository: https://github.com/ros2-gbp/zmqpp_vendor-release.git
+- rosdistro version: `0.0.2-4`
+- old version: `0.0.2-4`
+- new version: `0.1.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.13.0`
+- catkin_pkg version: `1.1.0`
+- rosdep version: `0.26.0`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## zmqpp_vendor (humble) - 0.1.0-3
 
 The packages in the `zmqpp_vendor` repository were released into the `humble` distro by running `/usr/bin/bloom-release --rosdistro humble zmqpp_vendor` on `Mon, 22 Dec 2025 08:51:38 -0000`
